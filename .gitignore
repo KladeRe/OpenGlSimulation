@@ -1,1 +1,4 @@
-src/run
+bin/simulation
+.vscode
+*.o
+*.out
